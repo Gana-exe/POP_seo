@@ -23,7 +23,7 @@ $html = '<html>
         <div style="background:#fff; width:594px; float:left; padding:0px 3px 3px 3px;">
           <div style="padding:27px; width:540px; float:left;text-align:center;">
                 <a href="https://pointonepromotions.com/" target="_blank">
-                    <img src="https://raw.githubusercontent.com/Gana-exe/popasset/master/images/POPGradient-logo.webp" alt="POP logo"/ style="width:100px" >
+                    <img src="https://raw.githubusercontent.com/thedrones/popasset/master/images/POPGradient-logo.webp" alt="POP logo"/ style="width:100px" >
                 </a>
             </div>
             <div style="background:#fff; padding:44px 34px; width:526px; float:left;">

@@ -1,37 +1,37 @@
 function navIconHover(element, id, active = false) {
   switch (id) {
     case "about":
-      element.setAttribute("src", "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/hover/about.webp");
+      element.setAttribute("src", "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/hover/about.webp");
       break;
     case "team":
       element.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/hover/ourteam.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/hover/ourteam.webp"
       );
       break;
     case "services":
       element.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/hover/services.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/hover/services.webp"
       );
       break;
     case "portfolio":
       element.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/hover/portfolio.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/hover/portfolio.webp"
       );
       break;
     case "career":
       element.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/hover/career.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/hover/career.webp"
       );
       break;
     case "call":
-      element.setAttribute("src", "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/hover/call.webp");
+      element.setAttribute("src", "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/hover/call.webp");
       break;
     case "sentMail":
-      element.setAttribute("src", "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/Mail%20Button/Group%203384.webp");
+      element.setAttribute("src", "https://raw.githubusercontent.com/thedrones/popasset/master/images/Mail%20Button/Group%203384.webp");
       break;
     default:
       break;
@@ -44,7 +44,7 @@ function navIconUnHover(element, id, active = false) {
       if (!active) {
         element.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/Group%201588.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/Group%201588.webp"
         );
         break;
       }
@@ -53,7 +53,7 @@ function navIconUnHover(element, id, active = false) {
       if (!active) {
         element.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/Group%201545.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/Group%201545.webp"
         );
         break;
       }
@@ -62,7 +62,7 @@ function navIconUnHover(element, id, active = false) {
       if (!active) {
         element.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/Group%201543.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/Group%201543.webp"
         );
         break;
       }
@@ -71,7 +71,7 @@ function navIconUnHover(element, id, active = false) {
       if (!active) {
         element.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/Group%201578.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/Group%201578.webp"
         );
         break;
       }
@@ -80,7 +80,7 @@ function navIconUnHover(element, id, active = false) {
       if (!active) {
         element.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/Group%201577.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/Group%201577.webp"
         );
         break;
       }
@@ -89,13 +89,13 @@ function navIconUnHover(element, id, active = false) {
       if (!active) {
         element.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/NavBar%20Icons/Group%201576.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/NavBar%20Icons/Group%201576.webp"
         );
         break;
       }
     case "sentMail":
       if (!active) {
-        element.setAttribute("src", "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/Mail%20Button/Group%203383.webp");
+        element.setAttribute("src", "https://raw.githubusercontent.com/thedrones/popasset/master/images/Mail%20Button/Group%203383.webp");
         break;
       }
     default:
@@ -115,19 +115,19 @@ function selectService(element) {
     case "building":
       building.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Hover/Group%203343.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Hover/Group%203343.webp"
       );
       serviceImage.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/TREE/Group%202.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/TREE/Group%202.webp"
       );
       awareness.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203382.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203382.webp"
       );
       marketing.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203345.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203345.webp"
       );
       serviceImage.style.bottom = "0";
       buildingContent.style.display = "block";
@@ -138,20 +138,20 @@ function selectService(element) {
     case "marketing":
       building.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203342.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203342.webp"
       );
       serviceImage.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/TREE/Group%204.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/TREE/Group%204.webp"
       );
 
       awareness.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203382.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203382.webp"
       );
       marketing.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Hover/Group%203376.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Hover/Group%203376.webp"
       );
       serviceImage.style.bottom = "0";
       buildingContent.style.display = "none";
@@ -161,20 +161,20 @@ function selectService(element) {
     case "awareness":
       building.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203342.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203342.webp"
       );
       serviceImage.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/TREE/Group%203.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/TREE/Group%203.webp"
       );
 
       awareness.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Hover/Group%203375.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Hover/Group%203375.webp"
       );
       marketing.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203345.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203345.webp"
       );
       serviceImage.style.bottom = "1px";
       buildingContent.style.display = "none";
@@ -206,7 +206,7 @@ function selectServiceMob(element, type) {
       if (buildingContent.style.display === "none") {
         building.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Hover/Group%203343.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Hover/Group%203343.webp"
         );
         setTimeout(() => {
           $("html,body").animate(
@@ -219,17 +219,17 @@ function selectServiceMob(element, type) {
       } else {
         building.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203342.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203342.webp"
         );
       }
 
       awareness.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203382.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203382.webp"
       );
       marketing.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203345.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203345.webp"
       );
       buildingContent.style.display =
         buildingContent.style.display === "none" ? "block" : "none";
@@ -240,7 +240,7 @@ function selectServiceMob(element, type) {
       if (marketingContent.style.display === "none") {
         marketing.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Hover/Group%203376.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Hover/Group%203376.webp"
         );
         setTimeout(() => {
           $("html,body").animate(
@@ -253,16 +253,16 @@ function selectServiceMob(element, type) {
       } else {
         marketing.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203345.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203345.webp"
         );
       }
       building.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203342.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203342.webp"
       );
       awareness.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203382.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203382.webp"
       );
       buildingContent.style.display = "none";
       awarenessContent.style.display = "none";
@@ -273,7 +273,7 @@ function selectServiceMob(element, type) {
       if (awarenessContent.style.display === "none") {
         awareness.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Hover/Group%203375.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Hover/Group%203375.webp"
         );
         setTimeout(() => {
           $("html,body").animate(
@@ -286,17 +286,17 @@ function selectServiceMob(element, type) {
       } else {
         awareness.setAttribute(
           "src",
-          "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203382.webp"
+          "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203382.webp"
         );
       }
       building.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203342.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203342.webp"
       );
 
       marketing.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Group%203345.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Group%203345.webp"
       );
       buildingContent.style.display = "none";
       awarenessContent.style.display =
@@ -511,25 +511,25 @@ function onHoverBrandingList(element, type) {
     case "id1":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/buildings/hover/trian.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/buildings/hover/trian.webp"
       );
       break;
     case "id2":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/buildings/hover/man.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/buildings/hover/man.webp"
       );
       break;
     case "id3":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/buildings/hover/link.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/buildings/hover/link.webp"
       );
       break;
     case "id4":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/buildings/hover/shake.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/buildings/hover/shake.webp"
       );
       break;
     case "id5":
@@ -541,43 +541,43 @@ function onHoverBrandingList(element, type) {
     case "id6":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Awareness/hover/SMO.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Awareness/hover/SMO.webp"
       );
       break;
     case "id7":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Awareness/hover/SEO.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Awareness/hover/SEO.webp"
       );
       break;
     case "id8":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Awareness/hover/ORM.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Awareness/hover/ORM.webp"
       );
       break;
     case "id9":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Marketing/hover/PA.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Marketing/hover/PA.webp"
       );
       break;
     case "id10":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Marketing/hover/AM.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Marketing/hover/AM.webp"
       );
       break;
     case "id11":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Marketing/hover/IM.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Marketing/hover/IM.webp"
       );
       break;
     case "id12":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Marketing/hover/EM.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Marketing/hover/EM.webp"
       );
       break;
     default:
@@ -588,24 +588,24 @@ function onHoverOutBrandingList(element, type) {
   var img = element.querySelector("img");
   switch (type) {
     case "id1":
-      img.setAttribute("src", "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/buildings/GR.webp");
+      img.setAttribute("src", "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/buildings/GR.webp");
       break;
     case "id2":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/buildings/Gman.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/buildings/Gman.webp"
       );
       break;
     case "id3":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/buildings/Glink.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/buildings/Glink.webp"
       );
       break;
     case "id4":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/buildings/Gshake.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/buildings/Gshake.webp"
       );
       break;
     case "id5":
@@ -617,43 +617,43 @@ function onHoverOutBrandingList(element, type) {
     case "id6":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Awareness/Social%20media%20optimization.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Awareness/Social%20media%20optimization.webp"
       );
       break;
     case "id7":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Awareness/Searchengine%20optimization.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Awareness/Searchengine%20optimization.webp"
       );
       break;
     case "id8":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Awareness/Online%20reputation%20management.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Awareness/Online%20reputation%20management.webp"
       );
       break;
     case "id9":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Marketing/Paid%20advertisement.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Marketing/Paid%20advertisement.webp"
       );
       break;
     case "id10":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Marketing/Affiliate%20marketing.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Marketing/Affiliate%20marketing.webp"
       );
       break;
     case "id11":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Marketing/Influencer%20marketing.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Marketing/Influencer%20marketing.webp"
       );
       break;
     case "id12":
       img.setAttribute(
         "src",
-        "https://raw.githubusercontent.com/Gana-exe/popasset/master/images/services/ICONS/Marketing/Email%20marketing.webp"
+        "https://raw.githubusercontent.com/thedrones/popasset/master/images/services/ICONS/Marketing/Email%20marketing.webp"
       );
       break;
     default:
