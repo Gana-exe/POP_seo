@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'NHaasGroteskTXPro-55Rg';
+  src: url('NHaasGroteskTXPro-55Rg.eot');
+  src: url('NHaasGroteskTXPro-55Rg.eot?#iefix') format('embedded-opentype'),
+       url('NHaasGroteskTXPro-55Rg.svg#NHaasGroteskTXPro-55Rg') format('svg'),
+       url('NHaasGroteskTXPro-55Rg.ttf') format('truetype'),
+       url('NHaasGroteskTXPro-55Rg.woff') format('woff'),
+       url('NHaasGroteskTXPro-55Rg.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

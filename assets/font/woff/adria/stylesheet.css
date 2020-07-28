@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Adria-Slab;
+    src: url('adria-slab-webfont.woff2') format('woff2'),
+         url('adria-slab-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

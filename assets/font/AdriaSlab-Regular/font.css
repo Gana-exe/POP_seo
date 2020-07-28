@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AdriaSlab-Regular';
+  src: url('AdriaSlab-Regular.eot');
+  src: url('AdriaSlab-Regular.eot?#iefix') format('embedded-opentype'),
+       url('AdriaSlab-Regular.svg#AdriaSlab-Regular') format('svg'),
+       url('AdriaSlab-Regular.ttf') format('truetype'),
+       url('AdriaSlab-Regular.woff') format('woff'),
+       url('AdriaSlab-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
