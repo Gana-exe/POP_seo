@@ -43,7 +43,7 @@
 
     var $mobile_nav = $('.nav-menu').clone().prop({
       class: 'mobile-nav d-lg-none'
-    }).prepend('<div class="w-100 text-center pb-5"> <a href="index.html"><img src="assets/images/POPGradient-logow.png" id="navbarlogo" class="img-fluid" style="width:25%;margin:auto"></a></div>');
+    }).prepend('<div class="w-100 text-center pb-5"> <a href="index.html"><img src="https://raw.githubusercontent.com/thedrones/popasset/master/images/POPGradient-logow.webp" id="navbarlogo" class="img-fluid" style="width:25%;margin:auto;"></a></div>');
 
     $('body').append($mobile_nav);
     $('.mobile-nav .nav-logo').remove();
